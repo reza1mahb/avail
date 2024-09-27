@@ -4,5 +4,5 @@ target
 node_modules
 dist
 tests/rust_scripts/target
-.vscode
+.vscode35
 output
